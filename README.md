@@ -1,6 +1,6 @@
 # n8n-nodes-critique-api
 
-This is an n8n community node that lets you use Critique AI in your workflows. Critique AI is an AI-powered search engine that dynamically searches the web, follows links, and recursively explores related topics to provide comprehensive, up-to-date responses.
+This is an n8n community node that lets you use Critique AI in your workflows. Critique AI is an AI-powered search engine that dynamically searches the web, follows links, and recursively explores related topics to provide comprehensive, up-to-date responses. 
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
@@ -14,6 +14,7 @@ This is an n8n community node that lets you use Critique AI in your workflows. C
 ## Installation
 
 Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n community nodes documentation.
+The package name is n8n-nodes-critique-api
 
 ## Operations
 
@@ -24,7 +25,7 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 This node requires Critique API credentials. You need:
 
-* API Key: Your Critique API key from [Critique Labs](https://docs.critique-labs.ai/)
+* API Key: Your Critique API key from [Critique Labs](https://critique-labs.ai/)
 
 ## Compatibility
 
